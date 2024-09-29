@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://layucker.github.io/sitemap.html.gz
+Sitemap: https://layucker.github.io/app/sitemap.html.gz
+Sitemap: https://layucker.github.io/assets/sitemap.html.gz
+Sitemap: https://layucker.github.io/css/sitemap.html.gz
+Sitemap: https://layucker.github.io/data/sitemap.html.gz
+Sitemap: https://layucker.github.io/includes/sitemap.html.gz
+Sitemap: https://layucker.github.io/item/sitemap.html.gz
+Sitemap: https://layucker.github.io/src/sitemap.html.gz
